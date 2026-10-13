@@ -1103,8 +1103,8 @@
 	Drop an image or PSD anywhere to open it.	將影像或 PSD 拖放到任何位置即可開啟。
 	Native file drag-and-drop is unavailable	Wayland 不支援原生檔案拖放
 	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or copy the image in your file manager and paste it with {paste}.	Wayland 尚未支援原生檔案拖放。請使用「檔案 › 開啟」，或在檔案管理員中複製影像後使用 {paste} 貼上。
-	To drop files, start PhotoCraft under XWayland: `{command}`	若要拖放檔案，請在 XWayland 下啟動 PhotoCraft：`{command}`
-	Or set Preferences › Performance › Linux display server to X11: PhotoCraft then always starts under XWayland.	或將 偏好設定 › 效能 › Linux 顯示伺服器 設為 X11：PhotoCraft 之後一律在 XWayland 下啟動。
+	To drop files, start AFROBYTE Studio under XWayland: `{command}`	若要拖放檔案，請在 XWayland 下啟動 AFROBYTE Studio：`{command}`
+	Or set Preferences › Performance › Linux display server to X11: AFROBYTE Studio then always starts under XWayland.	或將 偏好設定 › 效能 › Linux 顯示伺服器 設為 X11：AFROBYTE Studio 之後一律在 XWayland 下啟動。
 	Edit › Paste	「編輯 › 貼上」
 	Duplicate Layers…	複製圖層…
 	Duplicate style	複製樣式
@@ -2459,7 +2459,7 @@ fontWeight	Italic	斜體
 	Color to Alpha…	顏色轉為 Alpha…
 	Transparency Threshold	透明度臨界值
 	Opacity Threshold	不透明度臨界值
-	PhotoCraft — Screen Color Picker	PhotoCraft — 螢幕取色器
+	AFROBYTE Studio — Screen Color Picker	AFROBYTE Studio — 螢幕取色器
 
 	Rasterize svg groups deeper than	點陣化超過此深度的 SVG 群組
 	0 turns this threshold off; SVG groups nested deeper than 100 levels are always rasterized.	設為 0 可關閉此臨界值；巢狀超過 100 層的 SVG 群組一律會點陣化。
@@ -2707,7 +2707,7 @@ curves	Smooth	平滑
 	{name} (Photoshop)	{name}（Photoshop）
 	{message} ({note})	{message}（{note}）
 @plural	Loaded {n} action from {file}|Loaded {n} actions from {file}	已從 {file} 載入 {n} 個動作
-@plural	{n} step has no PhotoCraft equivalent yet|{n} steps have no PhotoCraft equivalent yet	{n} 個步驟在 PhotoCraft 中尚無對應功能
+@plural	{n} step has no AFROBYTE Studio equivalent yet|{n} steps have no AFROBYTE Studio equivalent yet	{n} 個步驟在 AFROBYTE Studio 中尚無對應功能
 @plural	Saved {n} action to {file}|Saved {n} actions to {file}	已將 {n} 個動作儲存到 {file}
 @plural	{n} step with no Photoshop equivalent left out|{n} steps with no Photoshop equivalent left out	已略過 {n} 個沒有 Photoshop 對應功能的步驟
 

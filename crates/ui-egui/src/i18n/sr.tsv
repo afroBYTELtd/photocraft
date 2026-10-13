@@ -2624,8 +2624,8 @@
 	Use Global Light	Koristi globalno svetlo
 	Native file drag-and-drop is unavailable	Izvorno prevlačenje i otpuštanje datoteka nije dostupno
 	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or copy the image in your file manager and paste it with {paste}.	Izvorno prevlačenje i otpuštanje datoteka još nije podržano na Wayland-u. Koristite Datoteka › Otvori ili kopirajte sliku u menadžeru datoteka i nalepite je pomoću {paste}.
-	To drop files, start PhotoCraft under XWayland: `{command}`	Da biste otpuštali datoteke, pokrenite PhotoCraft pod XWayland-om: `{command}`
-	Or set Preferences › Performance › Linux display server to X11: PhotoCraft then always starts under XWayland.	Ili postavite Podešavanja › Performanse › Linux server prikaza na X11: PhotoCraft će se tada uvek pokretati pod XWayland-om.
+	To drop files, start AFROBYTE Studio under XWayland: `{command}`	Da biste otpuštali datoteke, pokrenite AFROBYTE Studio pod XWayland-om: `{command}`
+	Or set Preferences › Performance › Linux display server to X11: AFROBYTE Studio then always starts under XWayland.	Ili postavite Podešavanja › Performanse › Linux server prikaza na X11: AFROBYTE Studio će se tada uvek pokretati pod XWayland-om.
 	Edit › Paste	Uređivanje › Nalepi
 	Use File › Open, or paste a copied image with {paste}.	Koristite Datoteka › Otvori ili nalepite kopiranu sliku pomoću {paste}.
 	Mixer Brush Tool	Alatka četkica za mešanje
@@ -2873,7 +2873,7 @@ fontWeight	Italic	Kurziv
 	Color to Alpha…	Boja u alfu…
 	Transparency Threshold	Prag providnosti
 	Opacity Threshold	Prag neprozirnosti
-	PhotoCraft — Screen Color Picker	PhotoCraft — birač boja sa ekrana
+	AFROBYTE Studio — Screen Color Picker	AFROBYTE Studio — birač boja sa ekrana
 
 	Rasterize svg groups deeper than	Rasterizuj SVG grupe dublje od
 	0 turns this threshold off; SVG groups nested deeper than 100 levels are always rasterized.	0 isključuje ovaj prag; SVG grupe ugnežđene dublje od 100 nivoa uvek se rasterizuju.
@@ -4178,7 +4178,7 @@ shape	Appearance	Izgled
 	{name} (Photoshop)	{name} (Photoshop)
 	{message} ({note})	{message} ({note})
 @plural	Loaded {n} action from {file}|Loaded {n} actions from {file}	Učitana je {n} radnja iz {file}|Učitane su {n} radnje iz {file}|Učitano je {n} radnji iz {file}
-@plural	{n} step has no PhotoCraft equivalent yet|{n} steps have no PhotoCraft equivalent yet	{n} korak još nema ekvivalent u PhotoCraftu|{n} koraka još nemaju ekvivalent u PhotoCraftu|{n} koraka još nema ekvivalent u PhotoCraftu
+@plural	{n} step has no AFROBYTE Studio equivalent yet|{n} steps have no AFROBYTE Studio equivalent yet	{n} korak još nema ekvivalent u aplikaciji AFROBYTE Studio|{n} koraka još nemaju ekvivalent u aplikaciji AFROBYTE Studio|{n} koraka još nema ekvivalent u aplikaciji AFROBYTE Studio
 @plural	Saved {n} action to {file}|Saved {n} actions to {file}	Sačuvana je {n} radnja u {file}|Sačuvane su {n} radnje u {file}|Sačuvano je {n} radnji u {file}
 @plural	{n} step with no Photoshop equivalent left out|{n} steps with no Photoshop equivalent left out	Izostavljen je {n} korak bez ekvivalenta u Photoshopu|Izostavljena su {n} koraka bez ekvivalenta u Photoshopu|Izostavljeno je {n} koraka bez ekvivalenta u Photoshopu
 	Insert Stop…	Umetni zaustavljanje…

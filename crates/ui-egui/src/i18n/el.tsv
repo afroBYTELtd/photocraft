@@ -3527,8 +3527,8 @@ cameraRaw	Yellow	Κίτρινο
 	Red Eye Tool	Κόκκινα μάτια (Red Eye Tool)
 	Seafoam	Θαλασσί
 	Srgb	sRGB
-	To drop files, start PhotoCraft under XWayland: `{command}`	Για να αποθέσετε αρχεία, εκκινήστε το PhotoCraft μέσω XWayland: `{command}`
-	Or set Preferences › Performance › Linux display server to X11: PhotoCraft then always starts under XWayland.	Ή ορίστε Προτιμήσεις › Επιδόσεις › Διακομιστής οθόνης Linux σε X11: το PhotoCraft θα εκκινεί τότε πάντα μέσω XWayland.
+	To drop files, start AFROBYTE Studio under XWayland: `{command}`	Για να αποθέσετε αρχεία, εκκινήστε το AFROBYTE Studio μέσω XWayland: `{command}`
+	Or set Preferences › Performance › Linux display server to X11: AFROBYTE Studio then always starts under XWayland.	Ή ορίστε Προτιμήσεις › Επιδόσεις › Διακομιστής οθόνης Linux σε X11: το AFROBYTE Studio θα εκκινεί τότε πάντα μέσω XWayland.
 	Vulkan	Vulkan
 	WebP (lossless)	WebP (χωρίς απώλειες)
 	Webp	WebP
@@ -3581,7 +3581,7 @@ fontWeight	Thin	Πολύ λεπτά
 	Color to Alpha…	Χρώμα σε άλφα…
 	Transparency Threshold	Κατώφλι διαφάνειας
 	Opacity Threshold	Κατώφλι αδιαφάνειας
-	PhotoCraft — Screen Color Picker	PhotoCraft — Επιλογή χρώματος οθόνης
+	AFROBYTE Studio — Screen Color Picker	AFROBYTE Studio — Επιλογή χρώματος οθόνης
 
 	Rasterize svg groups deeper than	Ραστεροποίηση ομάδων SVG πέρα από αυτό το βάθος
 	0 turns this threshold off; SVG groups nested deeper than 100 levels are always rasterized.	Το 0 απενεργοποιεί αυτό το όριο· ομάδες SVG με ένθεση βαθύτερη από 100 επίπεδα ραστεροποιούνται πάντα.
@@ -3811,7 +3811,7 @@ curves	Smooth	Εξομάλυνση
 	{name} (Photoshop)	{name} (Photoshop)
 	{message} ({note})	{message} ({note})
 @plural	Loaded {n} action from {file}|Loaded {n} actions from {file}	Φορτώθηκε {n} ενέργεια από το {file}|Φορτώθηκαν {n} ενέργειες από το {file}
-@plural	{n} step has no PhotoCraft equivalent yet|{n} steps have no PhotoCraft equivalent yet	{n} βήμα δεν έχει ακόμη αντίστοιχο στο PhotoCraft|{n} βήματα δεν έχουν ακόμη αντίστοιχο στο PhotoCraft
+@plural	{n} step has no AFROBYTE Studio equivalent yet|{n} steps have no AFROBYTE Studio equivalent yet	{n} βήμα δεν έχει ακόμη αντίστοιχο στο AFROBYTE Studio|{n} βήματα δεν έχουν ακόμη αντίστοιχο στο AFROBYTE Studio
 @plural	Saved {n} action to {file}|Saved {n} actions to {file}	Αποθηκεύτηκε {n} ενέργεια στο {file}|Αποθηκεύτηκαν {n} ενέργειες στο {file}
 @plural	{n} step with no Photoshop equivalent left out|{n} steps with no Photoshop equivalent left out	Παραλείφθηκε {n} βήμα χωρίς αντίστοιχο στο Photoshop|Παραλείφθηκαν {n} βήματα χωρίς αντίστοιχο στο Photoshop
 

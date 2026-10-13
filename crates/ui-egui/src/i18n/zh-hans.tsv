@@ -1100,8 +1100,8 @@
 	Drop an image or PSD anywhere to open it.	将图像或 PSD 拖放到任意位置即可打开。
 	Native file drag-and-drop is unavailable	Wayland 上不支持原生文件拖放
 	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or copy the image in your file manager and paste it with {paste}.	Wayland 尚不支持原生文件拖放。请使用“文件 › 打开”，或在文件管理器中复制图像后使用 {paste} 粘贴。
-	To drop files, start PhotoCraft under XWayland: `{command}`	要拖放文件，请在 XWayland 下启动 PhotoCraft：`{command}`
-	Or set Preferences › Performance › Linux display server to X11: PhotoCraft then always starts under XWayland.	或将 首选项 › 性能 › Linux 显示服务器 设为 X11：PhotoCraft 将始终在 XWayland 下启动。
+	To drop files, start AFROBYTE Studio under XWayland: `{command}`	要拖放文件，请在 XWayland 下启动 AFROBYTE Studio：`{command}`
+	Or set Preferences › Performance › Linux display server to X11: AFROBYTE Studio then always starts under XWayland.	或将 首选项 › 性能 › Linux 显示服务器 设为 X11：AFROBYTE Studio 将始终在 XWayland 下启动。
 	Edit › Paste	“编辑 › 粘贴”
 	Duplicate Layers…	复制图层…
 	Duplicate style	复制样式
@@ -2489,7 +2489,7 @@ fontWeight	Italic	斜体
 	Color to Alpha…	颜色转为 Alpha…
 	Transparency Threshold	透明度阈值
 	Opacity Threshold	不透明度阈值
-	PhotoCraft — Screen Color Picker	PhotoCraft — 屏幕取色器
+	AFROBYTE Studio — Screen Color Picker	AFROBYTE Studio — 屏幕取色器
 
 	Rasterize svg groups deeper than	栅格化超过此深度的 SVG 组
 	0 turns this threshold off; SVG groups nested deeper than 100 levels are always rasterized.	设为 0 可关闭此阈值；嵌套超过 100 层的 SVG 组始终会被栅格化。
@@ -2722,7 +2722,7 @@ curves	Smooth	平滑
 	{name} (Photoshop)	{name}（Photoshop）
 	{message} ({note})	{message}（{note}）
 @plural	Loaded {n} action from {file}|Loaded {n} actions from {file}	已从 {file} 载入 {n} 个动作
-@plural	{n} step has no PhotoCraft equivalent yet|{n} steps have no PhotoCraft equivalent yet	{n} 个步骤在 PhotoCraft 中尚无对应功能
+@plural	{n} step has no AFROBYTE Studio equivalent yet|{n} steps have no AFROBYTE Studio equivalent yet	{n} 个步骤在 AFROBYTE Studio 中尚无对应功能
 @plural	Saved {n} action to {file}|Saved {n} actions to {file}	已将 {n} 个动作存储到 {file}
 @plural	{n} step with no Photoshop equivalent left out|{n} steps with no Photoshop equivalent left out	已省略 {n} 个没有 Photoshop 对应功能的步骤
 

@@ -2359,7 +2359,7 @@ shape	Appearance	Diện mạo
 	Next Document	Tài liệu tiếp theo
 	Open EXR Parts…	Mở các phần EXR…
 	Pencil	Bút chì
-	PhotoCraft — Screen Color Picker	PhotoCraft — Bộ chọn màu màn hình
+	AFROBYTE Studio — Screen Color Picker	AFROBYTE Studio — Bộ chọn màu màn hình
 	Previous Document	Tài liệu trước
 	Refine	Tinh chỉnh
 	Remove from Recent	Xóa khỏi Gần đây
@@ -2547,8 +2547,8 @@ shape	Appearance	Diện mạo
 	Basic	Cơ bản
 	Brush Preset picker	Bộ chọn cài đặt cọ
 	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or copy the image in your file manager and paste it with {paste}.	Chưa hỗ trợ kéo-thả tệp gốc trên Wayland. Hãy dùng Tệp › Mở, hoặc sao chép ảnh trong trình quản lý tệp và dán bằng {paste}.
-	To drop files, start PhotoCraft under XWayland: `{command}`	Để thả tệp, hãy khởi chạy PhotoCraft dưới XWayland: `{command}`
-	Or set Preferences › Performance › Linux display server to X11: PhotoCraft then always starts under XWayland.	Hoặc đặt Tùy chọn › Hiệu năng › Máy chủ hiển thị Linux thành X11: PhotoCraft sẽ luôn khởi chạy dưới XWayland.
+	To drop files, start AFROBYTE Studio under XWayland: `{command}`	Để thả tệp, hãy khởi chạy AFROBYTE Studio dưới XWayland: `{command}`
+	Or set Preferences › Performance › Linux display server to X11: AFROBYTE Studio then always starts under XWayland.	Hoặc đặt Tùy chọn › Hiệu năng › Máy chủ hiển thị Linux thành X11: AFROBYTE Studio sẽ luôn khởi chạy dưới XWayland.
 	Kerning	Điều chỉnh khoảng cách chữ
 	Layout	Bố cục
 	Metrics	Số đo
@@ -3596,7 +3596,7 @@ curves	Smooth	Làm mượt
 	{name} (Photoshop)	{name} (Photoshop)
 	{message} ({note})	{message} ({note})
 @plural	Loaded {n} action from {file}|Loaded {n} actions from {file}	Đã nạp {n} hành động từ {file}
-@plural	{n} step has no PhotoCraft equivalent yet|{n} steps have no PhotoCraft equivalent yet	{n} bước chưa có chức năng tương ứng trong PhotoCraft
+@plural	{n} step has no AFROBYTE Studio equivalent yet|{n} steps have no AFROBYTE Studio equivalent yet	{n} bước chưa có chức năng tương ứng trong AFROBYTE Studio
 @plural	Saved {n} action to {file}|Saved {n} actions to {file}	Đã lưu {n} hành động vào {file}
 @plural	{n} step with no Photoshop equivalent left out|{n} steps with no Photoshop equivalent left out	Đã bỏ qua {n} bước không có chức năng tương ứng trong Photoshop
 
