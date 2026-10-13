@@ -1418,11 +1418,11 @@
 	Import Shortcuts…	Importuj skróty…
 	Load a keyboard shortcut set saved as .kys	Wczytaj zestaw skrótów klawiaturowych zapisany jako .kys
 	Imported {n} shortcuts from {file}. Click OK to keep them.	Zaimportowano skrótów: {n} z pliku {file}. Kliknij OK, aby je zachować.
-	{n} commands are not in PhotoCraft.	Poleceń, których nie ma w PhotoCraft: {n}.
+	{n} commands are not in AFROBYTE Studio.	Poleceń, których nie ma w AFROBYTE Studio: {n}.
 	Keyboard shortcuts imported	Zaimportowano skróty klawiaturowe
 	Your keyboard shortcut set {set} is in use here: {n} shortcuts differ from the defaults. Edit › Keyboard Shortcuts shows them; Reset All to Defaults undoes this.	Twój zestaw skrótów klawiaturowych {set} jest tu używany: skrótów innych niż domyślne: {n}. Edycja › Skróty klawiaturowe je pokazuje; Przywróć wszystkie domyślne cofa import.
 	Import keyboard shortcuts?	Zaimportować skróty klawiaturowe?
-	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	PhotoCraft znalazł na tym komputerze Twój zestaw skrótów klawiaturowych {set} z innego edytora obrazów: skrótów innych niż w PhotoCraft: {n}. Zaimportować go?
+	AFROBYTE Studio found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from AFROBYTE Studio's. Import it?	Aplikacja AFROBYTE Studio znalazła na tym komputerze Twój zestaw skrótów klawiaturowych {set} z innego edytora obrazów. Liczba skrótów różniących się od skrótów w AFROBYTE Studio: {n}. Zaimportować zestaw?
 	Edit › Keyboard Shortcuts › Reset All to Defaults undoes an import.	Edycja › Skróty klawiaturowe › Przywróć wszystkie domyślne cofa import.
 	Don't Import	Nie importuj
 	The keyboard shortcut set was not imported: {error}	Nie zaimportowano zestawu skrótów klawiaturowych: {error}

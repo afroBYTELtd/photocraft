@@ -1398,11 +1398,11 @@
 	Import Shortcuts…	Impor Pintasan…
 	Load a keyboard shortcut set saved as .kys	Muat set pintasan keyboard yang disimpan sebagai .kys
 	Imported {n} shortcuts from {file}. Click OK to keep them.	{n} pintasan diimpor dari {file}. Klik OK untuk menyimpannya.
-	{n} commands are not in PhotoCraft.	{n} perintah tidak ada di PhotoCraft.
+	{n} commands are not in AFROBYTE Studio.	{n} perintah tidak ada di AFROBYTE Studio.
 	Keyboard shortcuts imported	Pintasan keyboard diimpor
 	Your keyboard shortcut set {set} is in use here: {n} shortcuts differ from the defaults. Edit › Keyboard Shortcuts shows them; Reset All to Defaults undoes this.	Set pintasan keyboard Anda {set} dipakai di sini: {n} pintasan berbeda dari bawaan. Edit › Pintasan Keyboard menampilkannya; Setel Ulang Semua ke Bawaan membatalkannya.
 	Import keyboard shortcuts?	Impor pintasan keyboard?
-	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	PhotoCraft menemukan set pintasan keyboard Anda {set} dari editor gambar lain di komputer ini: {n} pintasannya berbeda dari PhotoCraft. Impor?
+	AFROBYTE Studio found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from AFROBYTE Studio's. Import it?	AFROBYTE Studio menemukan set pintasan keyboard Anda {set} dari editor gambar lain di komputer ini: {n} pintasannya berbeda dari AFROBYTE Studio. Impor?
 	Edit › Keyboard Shortcuts › Reset All to Defaults undoes an import.	Edit › Pintasan Keyboard › Setel Ulang Semua ke Bawaan membatalkan impor.
 	Don't Import	Jangan Impor
 	The keyboard shortcut set was not imported: {error}	Set pintasan keyboard tidak diimpor: {error}

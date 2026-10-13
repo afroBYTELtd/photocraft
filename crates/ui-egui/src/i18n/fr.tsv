@@ -1404,11 +1404,11 @@
 	Import Shortcuts…	Importer des raccourcis…
 	Load a keyboard shortcut set saved as .kys	Charger un jeu de raccourcis clavier enregistré en .kys
 	Imported {n} shortcuts from {file}. Click OK to keep them.	{n} raccourcis importés depuis {file}. Cliquez sur OK pour les conserver.
-	{n} commands are not in PhotoCraft.	{n} commandes n'existent pas dans PhotoCraft.
+	{n} commands are not in AFROBYTE Studio.	{n} commandes n'existent pas dans AFROBYTE Studio.
 	Keyboard shortcuts imported	Raccourcis clavier importés
 	Your keyboard shortcut set {set} is in use here: {n} shortcuts differ from the defaults. Edit › Keyboard Shortcuts shows them; Reset All to Defaults undoes this.	Votre jeu de raccourcis clavier {set} est utilisé ici : {n} raccourcis diffèrent des valeurs par défaut. Édition › Raccourcis clavier les affiche ; Tout rétablir par défaut annule l'import.
 	Import keyboard shortcuts?	Importer les raccourcis clavier ?
-	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	PhotoCraft a trouvé sur cet ordinateur votre jeu de raccourcis clavier {set} provenant d'un autre éditeur d'images : {n} de ses raccourcis diffèrent de ceux de PhotoCraft. L'importer ?
+	AFROBYTE Studio found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from AFROBYTE Studio's. Import it?	AFROBYTE Studio a trouvé sur cet ordinateur votre jeu de raccourcis clavier {set} provenant d'un autre éditeur d'images : {n} de ses raccourcis diffèrent de ceux d'AFROBYTE Studio. L'importer ?
 	Edit › Keyboard Shortcuts › Reset All to Defaults undoes an import.	Édition › Raccourcis clavier › Tout rétablir par défaut annule un import.
 	Don't Import	Ne pas importer
 	The keyboard shortcut set was not imported: {error}	Le jeu de raccourcis clavier n'a pas été importé : {error}

@@ -2865,7 +2865,7 @@ cameraRaw	Yellow	Sárga
 	Permission denied	Hozzáférés megtagadva
 	Phone	Telefon
 	Photo	Fotó
-	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	A PhotoCraft egy másik képszerkesztő billentyűparancs-készletét találta ezen a számítógépen: {set}. Ebben {n} billentyűparancs eltér a PhotoCraftétól. Importálod?
+	AFROBYTE Studio found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from AFROBYTE Studio's. Import it?	Az AFROBYTE Studio egy másik képszerkesztő billentyűparancs-készletét találta ezen a számítógépen: {set}. Ebben {n} billentyűparancs eltér az AFROBYTE Studio billentyűparancsaitól. Importálod?
 	PhotoCraft keeps retrying; until a save succeeds, preference changes are lost when it closes.	A PhotoCraft tovább próbálkozik; amíg a mentés nem sikerül, a beállítások módosításai bezáráskor elvesznek.
 	AFROBYTE Studio Manages Colors	A AFROBYTE Studio kezeli a színeket
 	PhotoCraft — an open-source, native image editor written in Rust.	PhotoCraft – nyílt forráskódú, natív képszerkesztő Rust nyelven.
@@ -3015,7 +3015,7 @@ cameraRaw	Yellow	Sárga
 	Y	Y
 	Yes	Igen
 	Your keyboard shortcut set {set} is in use here: {n} shortcuts differ from the defaults. Edit › Keyboard Shortcuts shows them; Reset All to Defaults undoes this.	A billentyűparancs-készleted itt is használatban van: {set}. Ebből {n} billentyűparancs eltér az alapértelmezettől. A Szerkesztés › Billentyűparancsok alatt láthatod őket; az Összes visszaállítása alapértékre paranccsal ez visszavonható.
-	{n} commands are not in PhotoCraft.	{n} parancs nem érhető el a PhotoCraftban.
+	{n} commands are not in AFROBYTE Studio.	{n} parancs nem érhető el az AFROBYTE Studio alkalmazásban.
 	{shortcut} assigned.	Billentyűparancs hozzárendelve: {shortcut}
 	{shortcut} is already in use by {commands} and will be removed from it when you click OK.	A billentyűparancs már foglalt: {shortcut}. Jelenlegi parancs: {commands}. Az OK gombra kattintva onnan törlődik.
 

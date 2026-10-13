@@ -1380,11 +1380,11 @@
 	Import Shortcuts…	Kısayolları İçe Aktar…
 	Load a keyboard shortcut set saved as .kys	.kys olarak kaydedilen bir klavye kısayolu kümesi yükleyin
 	Imported {n} shortcuts from {file}. Click OK to keep them.	{n} kısayolları {file} adresinden içe aktarıldı. Bunları saklamak için Tamam'ı tıklayın.
-	{n} commands are not in PhotoCraft.	{n} komutları PhotoCraft'ta değil.
+	{n} commands are not in AFROBYTE Studio.	{n} komut AFROBYTE Studio'da bulunmuyor.
 	Keyboard shortcuts imported	İçe aktarılan klavye kısayolları
 	Your keyboard shortcut set {set} is in use here: {n} shortcuts differ from the defaults. Edit › Keyboard Shortcuts shows them; Reset All to Defaults undoes this.	{set} klavye kısayol grubunuz burada kullanılıyor: {n} kısayolları varsayılanlardan farklı. Düzenle › Klavye Kısayolları bunları gösterir; Tümünü Varsayılanlara Sıfırla bu işlemi geri alır.
 	Import keyboard shortcuts?	Klavye kısayolları içe aktarılsın mı?
-	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	PhotoCraft, {set} klavye kısayol setinizi bu bilgisayardaki başka bir resim düzenleyicide buldu: {n} kısayolları PhotoCraft'ınkilerden farklı. İçe aktarılsın mı?
+	AFROBYTE Studio found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from AFROBYTE Studio's. Import it?	AFROBYTE Studio, bu bilgisayarda başka bir görüntü düzenleyiciye ait {set} klavye kısayolu setini buldu: {n} kısayol AFROBYTE Studio'daki kısayollardan farklı. İçe aktarılsın mı?
 	Edit › Keyboard Shortcuts › Reset All to Defaults undoes an import.	Düzenle › Klavye Kısayolları › Tümünü Varsayılanlara Sıfırla, içe aktarma işlemini geri alır.
 	Don't Import	İçe Aktarma
 	The keyboard shortcut set was not imported: {error}	Klavye kısayol seti içe aktarılmadı: {error}

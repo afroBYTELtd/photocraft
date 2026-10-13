@@ -2927,11 +2927,11 @@
 	Import Shortcuts…	Εισαγωγή συντομεύσεων…
 	Load a keyboard shortcut set saved as .kys	Φόρτωση ενός σετ συντομεύσεων πληκτρολογίου αποθηκευμένου ως .kys
 	Imported {n} shortcuts from {file}. Click OK to keep them.	Εισήχθησαν {n} συντομεύσεις από το {file}. Πατήστε OK για να τις κρατήσετε.
-	{n} commands are not in PhotoCraft.	{n} εντολές δεν υπάρχουν στο PhotoCraft.
+	{n} commands are not in AFROBYTE Studio.	{n} εντολές δεν υπάρχουν στο AFROBYTE Studio.
 	Keyboard shortcuts imported	Οι συντομεύσεις πληκτρολογίου εισήχθησαν
 	Your keyboard shortcut set {set} is in use here: {n} shortcuts differ from the defaults. Edit › Keyboard Shortcuts shows them; Reset All to Defaults undoes this.	Το σετ συντομεύσεων πληκτρολογίου {set} χρησιμοποιείται εδώ: {n} συντομεύσεις διαφέρουν από τις προεπιλογές. Το Επεξεργασία › Συντομεύσεις πληκτρολογίου τις δείχνει· η Επαναφορά όλων στις προεπιλογές το αναιρεί.
 	Import keyboard shortcuts?	Εισαγωγή συντομεύσεων πληκτρολογίου;
-	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	Το PhotoCraft βρήκε σε αυτόν τον υπολογιστή το σετ συντομεύσεων πληκτρολογίου {set} από άλλο πρόγραμμα επεξεργασίας εικόνας: {n} συντομεύσεις του διαφέρουν από του PhotoCraft. Να γίνει εισαγωγή;
+	AFROBYTE Studio found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from AFROBYTE Studio's. Import it?	Το AFROBYTE Studio βρήκε σε αυτόν τον υπολογιστή το σετ συντομεύσεων πληκτρολογίου {set} από άλλο πρόγραμμα επεξεργασίας εικόνας: {n} συντομεύσεις του διαφέρουν από του AFROBYTE Studio. Να γίνει εισαγωγή;
 	Edit › Keyboard Shortcuts › Reset All to Defaults undoes an import.	Το Επεξεργασία › Συντομεύσεις πληκτρολογίου › Επαναφορά όλων στις προεπιλογές αναιρεί μια εισαγωγή.
 	Don't Import	Χωρίς εισαγωγή
 	The keyboard shortcut set was not imported: {error}	Το σετ συντομεύσεων πληκτρολογίου δεν εισήχθη: {error}

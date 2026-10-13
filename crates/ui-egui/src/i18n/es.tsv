@@ -1424,11 +1424,11 @@
 	Import Shortcuts…	Importar métodos abreviados…
 	Load a keyboard shortcut set saved as .kys	Cargar un conjunto de métodos abreviados de teclado guardado como .kys
 	Imported {n} shortcuts from {file}. Click OK to keep them.	Se importaron {n} métodos abreviados de {file}. Haga clic en Aceptar para conservarlos.
-	{n} commands are not in PhotoCraft.	{n} comandos no existen en PhotoCraft.
+	{n} commands are not in AFROBYTE Studio.	{n} comandos no existen en AFROBYTE Studio.
 	Keyboard shortcuts imported	Métodos abreviados de teclado importados
 	Your keyboard shortcut set {set} is in use here: {n} shortcuts differ from the defaults. Edit › Keyboard Shortcuts shows them; Reset All to Defaults undoes this.	Su conjunto de métodos abreviados de teclado {set} se usa aquí: {n} métodos abreviados difieren de los predeterminados. Edición › Métodos abreviados de teclado los muestra; Restablecer todo a los valores predeterminados lo deshace.
 	Import keyboard shortcuts?	¿Importar métodos abreviados de teclado?
-	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	PhotoCraft encontró en este equipo su conjunto de métodos abreviados de teclado {set} de otro editor de imágenes: {n} de sus métodos abreviados difieren de los de PhotoCraft. ¿Desea importarlo?
+	AFROBYTE Studio found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from AFROBYTE Studio's. Import it?	AFROBYTE Studio encontró en este equipo su conjunto de métodos abreviados de teclado {set} de otro editor de imágenes: {n} de sus métodos abreviados difieren de los de AFROBYTE Studio. ¿Desea importarlo?
 	Edit › Keyboard Shortcuts › Reset All to Defaults undoes an import.	Edición › Métodos abreviados de teclado › Restablecer todo a los valores predeterminados deshace una importación.
 	Don't Import	No importar
 	The keyboard shortcut set was not imported: {error}	No se importó el conjunto de métodos abreviados de teclado: {error}

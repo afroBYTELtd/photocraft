@@ -588,11 +588,11 @@
 	Import Shortcuts…	Імпортувати сполучення клавіш…
 	Load a keyboard shortcut set saved as .kys	Завантажити набір сполучень клавіш, збережений як .kys
 	Imported {n} shortcuts from {file}. Click OK to keep them.	Імпортовано сполучень клавіш: {n} із {file}. Натисніть OK, щоб зберегти їх.
-	{n} commands are not in PhotoCraft.	Команд, яких немає в PhotoCraft: {n}.
+	{n} commands are not in AFROBYTE Studio.	Команд, яких немає в AFROBYTE Studio: {n}.
 	Keyboard shortcuts imported	Сполучення клавіш імпортовано
 	Your keyboard shortcut set {set} is in use here: {n} shortcuts differ from the defaults. Edit › Keyboard Shortcuts shows them; Reset All to Defaults undoes this.	Тут використовується ваш набір сполучень клавіш {set}: сполучень, що відрізняються від стандартних: {n}. Їх показує Редагування › Сполучення клавіш; «Скинути все до стандартних» скасовує імпорт.
 	Import keyboard shortcuts?	Імпортувати сполучення клавіш?
-	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	PhotoCraft знайшов на цьому комп'ютері ваш набір сполучень клавіш {set} з іншого графічного редактора: сполучень, що відрізняються від PhotoCraft: {n}. Імпортувати його?
+	AFROBYTE Studio found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from AFROBYTE Studio's. Import it?	Застосунок AFROBYTE Studio знайшов на цьому комп'ютері ваш набір сполучень клавіш {set} з іншого графічного редактора. Кількість сполучень, відмінних від сполучень в AFROBYTE Studio: {n}. Імпортувати його?
 	Edit › Keyboard Shortcuts › Reset All to Defaults undoes an import.	Редагування › Сполучення клавіш › «Скинути все до стандартних» скасовує імпорт.
 	Don't Import	Не імпортувати
 	The keyboard shortcut set was not imported: {error}	Набір сполучень клавіш не імпортовано: {error}

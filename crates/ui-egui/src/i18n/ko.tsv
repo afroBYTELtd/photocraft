@@ -1394,11 +1394,11 @@
 	Import Shortcuts…	단축키 가져오기…
 	Load a keyboard shortcut set saved as .kys	.kys로 저장된 키보드 단축키 세트 불러오기
 	Imported {n} shortcuts from {file}. Click OK to keep them.	{file}에서 단축키 {n}개를 가져왔습니다. 유지하려면 확인을 클릭하세요.
-	{n} commands are not in PhotoCraft.	명령 {n}개는 PhotoCraft에 없습니다.
+	{n} commands are not in AFROBYTE Studio.	명령 {n}개는 AFROBYTE Studio에 없습니다.
 	Keyboard shortcuts imported	키보드 단축키를 가져왔습니다
 	Your keyboard shortcut set {set} is in use here: {n} shortcuts differ from the defaults. Edit › Keyboard Shortcuts shows them; Reset All to Defaults undoes this.	키보드 단축키 세트 {set}을(를) 여기서 사용합니다. 단축키 {n}개가 기본값과 다릅니다. 편집 › 키보드 단축키에서 확인할 수 있고, 모두 기본값으로 재설정으로 되돌릴 수 있습니다.
 	Import keyboard shortcuts?	키보드 단축키를 가져올까요?
-	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	PhotoCraft가 이 컴퓨터에서 다른 이미지 편집기의 키보드 단축키 세트 {set}을(를) 찾았습니다. 단축키 {n}개가 PhotoCraft와 다릅니다. 가져올까요?
+	AFROBYTE Studio found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from AFROBYTE Studio's. Import it?	AFROBYTE Studio가 이 컴퓨터에서 다른 이미지 편집기의 키보드 단축키 세트 {set}을(를) 찾았습니다. 단축키 {n}개가 AFROBYTE Studio와 다릅니다. 가져올까요?
 	Edit › Keyboard Shortcuts › Reset All to Defaults undoes an import.	편집 › 키보드 단축키 › 모두 기본값으로 재설정으로 가져오기를 되돌릴 수 있습니다.
 	Don't Import	가져오지 않음
 	The keyboard shortcut set was not imported: {error}	키보드 단축키 세트를 가져오지 못했습니다: {error}

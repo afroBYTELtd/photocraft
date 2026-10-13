@@ -1384,11 +1384,11 @@
 	Import Shortcuts…	Uvezi prečice…
 	Load a keyboard shortcut set saved as .kys	Učitaj skup prečica sačuvan kao .kys
 	Imported {n} shortcuts from {file}. Click OK to keep them.	Uvezeno {n} prečica iz {file}. Kliknite U redu da ih zadržite.
-	{n} commands are not in PhotoCraft.	{n} komandi ne postoji u PhotoCraft-u.
+	{n} commands are not in AFROBYTE Studio.	Broj komandi koje nisu dostupne u aplikaciji AFROBYTE Studio: {n}.
 	Keyboard shortcuts imported	Prečice na tastaturi su uvezene
 	Your keyboard shortcut set {set} is in use here: {n} shortcuts differ from the defaults. Edit › Keyboard Shortcuts shows them; Reset All to Defaults undoes this.	Ovde se koristi vaš skup prečica {set}: {n} prečica se razlikuje od podrazumevanih. Uređivanje › Prečice na tastaturi ih prikazuje; Vrati sve na podrazumevano poništava ovo.
 	Import keyboard shortcuts?	Uvesti prečice na tastaturi?
-	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	PhotoCraft je na ovom računaru pronašao vaš skup prečica {set} iz drugog uređivača slika: {n} prečica se razlikuje od PhotoCraft-ovih. Uvesti ga?
+	AFROBYTE Studio found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from AFROBYTE Studio's. Import it?	Aplikacija AFROBYTE Studio je na ovom računaru pronašla vaš skup prečica {set} iz drugog uređivača slika: broj prečica koje se razlikuju od prečica u aplikaciji AFROBYTE Studio je {n}. Uvesti ga?
 	Edit › Keyboard Shortcuts › Reset All to Defaults undoes an import.	Uređivanje › Prečice na tastaturi › Vrati sve na podrazumevano poništava uvoz.
 	Don't Import	Nemoj uvesti
 	The keyboard shortcut set was not imported: {error}	Skup prečica nije uvezen: {error}

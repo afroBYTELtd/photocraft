@@ -2200,7 +2200,7 @@ layers	Fill:	Độ tô:
 	Vector Mask from Current Path	Mặt nạ vector từ đường dẫn hiện tại
 	{label} is writing the file and can no longer be cancelled	{label} đang ghi tệp và không thể hủy nữa
 	{name} options	Tùy chọn {name}
-	{n} commands are not in PhotoCraft.	{n} lệnh không có trong PhotoCraft.
+	{n} commands are not in AFROBYTE Studio.	{n} lệnh không có trong AFROBYTE Studio.
 	{size} (was {old})	{size} (trước là {old})
 	{w} px x {h} px ({ppi} ppi)	{w} px x {h} px ({ppi} ppi)
 	…and {n} more	…và {n} nữa
@@ -2346,7 +2346,7 @@ shape	Appearance	Diện mạo
 # Phase 5.6 — upstream kys first-launch import prompt
 	Show channels in color	Hiện kênh bằng màu
 	Import keyboard shortcuts?	Nhập phím tắt?
-	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	PhotoCraft tìm thấy bộ phím tắt {set} từ trình chỉnh sửa ảnh khác trên máy này: {n} phím tắt khác với PhotoCraft. Nhập vào?
+	AFROBYTE Studio found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from AFROBYTE Studio's. Import it?	AFROBYTE Studio tìm thấy bộ phím tắt {set} từ trình chỉnh sửa ảnh khác trên máy này: {n} phím tắt khác với AFROBYTE Studio. Nhập vào?
 	Edit › Keyboard Shortcuts › Reset All to Defaults undoes an import.	Chỉnh sửa › Phím tắt › Đặt lại tất cả về mặc định sẽ hoàn tác lần nhập.
 	Don't Import	Không nhập
 	The keyboard shortcut set was not imported: {error}	Không nhập được bộ phím tắt: {error}
