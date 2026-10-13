@@ -22,6 +22,7 @@
 
 # Phase 3.1 — top-level menus, File menu, Edit menu
 # Custom paper dimensions in Print Settings.
+	AFROBYTE Studio Default	Kích thước mặc định của AFROBYTE Studio
 	Paper Width	Chiều rộng giấy
 	Paper Height	Chiều cao giấy
 
@@ -641,6 +642,10 @@
 	4-up	4 cửa sổ
 	6-up	6 cửa sổ
 	About PhotoCraft	Giới thiệu PhotoCraft
+	AFROBYTE Studio on GitHub	AFROBYTE Studio trên GitHub
+	AFROBYTE Website	Trang web AFROBYTE
+	About AFROBYTE Studio	Giới thiệu AFROBYTE Studio
+	Original PhotoCraft Source	Mã nguồn PhotoCraft gốc
 	Actions	Thao tác
 	ArtCraft Website	Trang web ArtCraft
 	Brush Settings	Thiết lập cọ
@@ -2561,7 +2566,6 @@ shape	Appearance	Diện mạo
 	Could not use Puppet Warp: the layer is empty	Không thể dùng Uốn búp bê: lớp rỗng
 	Crosswise	Ngang
 	Current Tool	Công cụ hiện tại
-	Default PhotoCraft Size	Kích thước mặc định của PhotoCraft
 	Delete Workspace	Xoá không gian làm việc
 	Document Dimensions	Kích thước tài liệu
 	Document Profile	Hồ sơ tài liệu

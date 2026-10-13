@@ -15,6 +15,7 @@
 # Guide layout dialog
 
 # Custom print paper (#3820)
+	AFROBYTE Studio Default	Ukuran bawaan AFROBYTE Studio
 	Paper Width	Lebar kertas
 	Paper Height	Tinggi kertas
 	Rows	Baris
@@ -759,6 +760,10 @@
 	Tool Presets	Preset Alat
 	Tools	Alat
 	About PhotoCraft	Tentang PhotoCraft
+	AFROBYTE Studio on GitHub	AFROBYTE Studio di GitHub
+	AFROBYTE Website	Situs Web AFROBYTE
+	About AFROBYTE Studio	Tentang AFROBYTE Studio
+	Original PhotoCraft Source	Kode sumber asli PhotoCraft
 	PhotoCraft Website	Situs Web PhotoCraft
 	PhotoCraft on GitHub	PhotoCraft di GitHub
 	ArtCraft Website	Situs Web ArtCraft
@@ -1609,7 +1614,6 @@
 	Current Tool	Alat Saat Ini
 	Custom Shape Tool	Alat Bentuk Kustom
 	Cyans	Cyan
-	Default PhotoCraft Size	Ukuran Default PhotoCraft
 	Delete Workspace	Hapus Ruang Kerja
 	Diamond	Diamond
 	Dimensions:	Dimensi:

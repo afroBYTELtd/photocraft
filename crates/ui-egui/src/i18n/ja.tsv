@@ -18,6 +18,7 @@
 # Guide layout dialog
 
 # Custom print paper (#3820)
+	AFROBYTE Studio Default	AFROBYTE Studio の既定サイズ
 	Paper Width	用紙の幅
 	Paper Height	用紙の高さ
 	Rows	行
@@ -776,6 +777,10 @@
 	Tool Presets	ツールプリセット
 	Tools	ツール
 	About PhotoCraft	PhotoCraft について
+	AFROBYTE Studio on GitHub	GitHub 上の AFROBYTE Studio
+	AFROBYTE Website	AFROBYTE の Web サイト
+	About AFROBYTE Studio	AFROBYTE Studio について
+	Original PhotoCraft Source	元の PhotoCraft ソースコード
 	PhotoCraft Website	PhotoCraft の Web サイト
 	PhotoCraft on GitHub	GitHub 上の PhotoCraft
 	ArtCraft Website	ArtCraft の Web サイト
@@ -1637,7 +1642,6 @@
 	Current Tool	現在のツール
 	Custom Shape Tool	カスタムシェイプツール
 	Cyans	シアン系
-	Default PhotoCraft Size	PhotoCraft 既定サイズ
 	Delete Workspace	ワークスペースを削除
 	Diamond	ダイヤモンド形
 	Dimensions:	寸法:

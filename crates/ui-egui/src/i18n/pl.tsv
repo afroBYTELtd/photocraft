@@ -21,6 +21,7 @@
 # Guide layout dialog
 
 # Custom print paper (#3820)
+	AFROBYTE Studio Default	Domyślny rozmiar AFROBYTE Studio
 	Paper Width	Szerokość papieru
 	Paper Height	Wysokość papieru
 	Rows	Wiersze
@@ -775,6 +776,10 @@
 	Tool Presets	Ustawienia wstępne narzędzi
 	Tools	Narzędzia
 	About PhotoCraft	O programie PhotoCraft
+	AFROBYTE Studio on GitHub	AFROBYTE Studio na GitHubie
+	AFROBYTE Website	Strona internetowa AFROBYTE
+	About AFROBYTE Studio	O programie AFROBYTE Studio
+	Original PhotoCraft Source	Oryginalny kod źródłowy PhotoCraft
 	PhotoCraft Website	Strona internetowa PhotoCraft
 	PhotoCraft on GitHub	PhotoCraft na GitHubie
 	ArtCraft Website	Strona internetowa ArtCraft
@@ -1631,7 +1636,6 @@
 	Current Tool	Bieżące narzędzie
 	Custom Shape Tool	Narzędzie Kształt niestandardowy
 	Cyans	Cyjany
-	Default PhotoCraft Size	Domyślny rozmiar PhotoCraft
 	Delete Workspace	Usuń obszar roboczy
 	Diamond	Romb
 	Dimensions:	Wymiary:

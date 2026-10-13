@@ -18,6 +18,7 @@
 
 # Plural messages and command id overrides
 # Custom paper dimensions in Print Settings.
+	AFROBYTE Studio Default	AFROBYTE Studio alapértelmezett mérete
 	Paper Width	Papír szélessége
 	Paper Height	Papír magassága
 
@@ -427,6 +428,10 @@
 	4-up	4 nézet
 	6-up	6 nézet
 	About PhotoCraft	A PhotoCraft névjegye
+	AFROBYTE Studio on GitHub	AFROBYTE Studio a GitHubon
+	AFROBYTE Website	AFROBYTE-weboldal
+	About AFROBYTE Studio	A AFROBYTE Studio névjegye
+	Original PhotoCraft Source	A PhotoCraft eredeti forráskódja
 	About {app}	Névjegy: {app}
 	Actions	Műveletsorok
 	Activate Panel	Panel aktiválása
@@ -2710,7 +2715,6 @@ cameraRaw	Yellow	Sárga
 	Data	Adatok
 	Date	Dátum
 	Day For Night	Nappali éjszaka
-	Default PhotoCraft Size	Alapértelmezett PhotoCraft-méret
 	Default printer	Alapértelmezett nyomtató
 	Default restored.	Alapértelmezés visszaállítva.
 	Defaults	Alapértékek

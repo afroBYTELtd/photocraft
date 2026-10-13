@@ -8,6 +8,7 @@
 # stay as they are; the trailing "…" of dialog commands is kept.
 #
 # Custom paper dimensions in Print Settings.
+	AFROBYTE Studio Default	AFROBYTE Studio Varsayılan Boyutu
 	Paper Width	Kağıt Genişliği
 	Paper Height	Kağıt Yüksekliği
 
@@ -753,6 +754,10 @@
 	Tool Presets	Araç Ön Ayarları
 	Tools	Araçlar
 	About PhotoCraft	PhotoCraft Hakkında
+	AFROBYTE Studio on GitHub	GitHub'da AFROBYTE Studio
+	AFROBYTE Website	AFROBYTE Web Sitesi
+	About AFROBYTE Studio	AFROBYTE Studio Hakkında
+	Original PhotoCraft Source	PhotoCraft özgün kaynak kodu
 	PhotoCraft Website	PhotoCraft Web Sitesi
 	PhotoCraft on GitHub	GitHub'da PhotoCraft
 	ArtCraft Website	ArtCraft Web Sitesi
@@ -1596,7 +1601,6 @@
 	Current Tool	Güncel Araç
 	Custom Shape Tool	Özel Şekil Aracı
 	Cyans	Camgöbeği
-	Default PhotoCraft Size	Varsayılan PhotoCraft Boyutu
 	Delete Workspace	Çalışma Alanını Sil
 	Diamond	Elmas
 	Dimensions:	Boyutlar:

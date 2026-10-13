@@ -22,6 +22,7 @@
 # Guide layout dialog
 
 # Custom print paper (#3820)
+	AFROBYTE Studio Default	Výchozí velikost AFROBYTE Studio
 	Paper Width	Šířka papíru
 	Paper Height	Výška papíru
 	Columns	Sloupce
@@ -782,6 +783,10 @@
 	Tool Presets	Přednastavení nástrojů
 	Tools	Nástroje
 	About PhotoCraft	O aplikaci PhotoCraft
+	AFROBYTE Studio on GitHub	AFROBYTE Studio na GitHubu
+	AFROBYTE Website	Web AFROBYTE
+	About AFROBYTE Studio	O aplikaci AFROBYTE Studio
+	Original PhotoCraft Source	Původní zdrojový kód PhotoCraft
 	PhotoCraft Website	Web PhotoCraft
 	PhotoCraft on GitHub	PhotoCraft na GitHubu
 	ArtCraft Website	Web ArtCraft
@@ -1653,7 +1658,6 @@
 	Current Tool	Aktuální nástroj
 	Custom Shape Tool	Nástroj vlastní tvar
 	Cyans	Azurové
-	Default PhotoCraft Size	Výchozí velikost PhotoCraft
 	Delete Workspace	Odstranit pracovní prostor
 	Diamond	Kosočtverec
 	Dimensions:	Rozměry:

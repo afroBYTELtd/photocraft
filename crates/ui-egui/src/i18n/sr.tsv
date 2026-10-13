@@ -23,6 +23,7 @@
 # out of noun agreement ("Broj: {n}", "slojeva: {n}") so every number reads correctly.
 
 # Guide layout dialog
+	AFROBYTE Studio Default	Podrazumevana veličina u AFROBYTE Studio
 	Rows	Redovi
 	Number	Broj
 	Margin	Margina
@@ -762,6 +763,10 @@
 	Tool Presets	Šabloni alatki
 	Tools	Alatke
 	About PhotoCraft	O programu PhotoCraft
+	AFROBYTE Studio on GitHub	AFROBYTE Studio na GitHub-u
+	AFROBYTE Website	Veb-sajt AFROBYTE-a
+	About AFROBYTE Studio	O programu AFROBYTE Studio
+	Original PhotoCraft Source	Originalni izvorni kod PhotoCraft-a
 	PhotoCraft Website	Veb-sajt PhotoCraft-a
 	PhotoCraft on GitHub	PhotoCraft na GitHub-u
 	ArtCraft Website	Veb-sajt ArtCraft-a
@@ -1601,7 +1606,6 @@
 	Current Tool	Tekuća alatka
 	Custom Shape Tool	Alatka za prilagođeni oblik
 	Cyans	Cijan
-	Default PhotoCraft Size	Podrazumevana veličina PhotoCraft-a
 	Delete Workspace	Obriši radni prostor
 	Diamond	Romb
 	Dimensions:	Dimenzije:

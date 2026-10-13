@@ -18,6 +18,7 @@
 # Guide layout dialog
 
 # Custom print paper (#3820)
+	AFROBYTE Studio Default	Tamanho padrão do AFROBYTE Studio
 	Paper Width	Largura do papel
 	Paper Height	Altura do papel
 	Rows	Linhas
@@ -760,6 +761,10 @@
 	Tool Presets	Predefinições de ferramentas
 	Tools	Ferramentas
 	About PhotoCraft	Sobre o PhotoCraft
+	AFROBYTE Studio on GitHub	AFROBYTE Studio no GitHub
+	AFROBYTE Website	Site do AFROBYTE
+	About AFROBYTE Studio	Sobre o AFROBYTE Studio
+	Original PhotoCraft Source	Código-fonte original do PhotoCraft
 	PhotoCraft Website	Site do PhotoCraft
 	PhotoCraft on GitHub	PhotoCraft no GitHub
 	ArtCraft Website	Site do ArtCraft
@@ -1610,7 +1615,6 @@
 	Current Tool	Ferramenta atual
 	Custom Shape Tool	Ferramenta Forma personalizada
 	Cyans	Cianos
-	Default PhotoCraft Size	Tamanho padrão do PhotoCraft
 	Delete Workspace	Excluir espaço de trabalho
 	Diamond	Diamante
 	Dimensions:	Dimensões:

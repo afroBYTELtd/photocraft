@@ -11,6 +11,7 @@
 # Guide layout dialog
 
 # Custom print paper (#3820)
+	AFROBYTE Studio Default	Standaardgrootte van AFROBYTE Studio
 	Paper Width	Papierbreedte
 	Paper Height	Papierhoogte
 	Rows	Rijen
@@ -758,6 +759,10 @@
 	Tool Presets	Gereedschapsvoorinstellingen
 	Tools	Gereedschappen
 	About PhotoCraft	Over PhotoCraft
+	AFROBYTE Studio on GitHub	AFROBYTE Studio op GitHub
+	AFROBYTE Website	Website van AFROBYTE
+	About AFROBYTE Studio	Over AFROBYTE Studio
+	Original PhotoCraft Source	Oorspronkelijke broncode van PhotoCraft
 	PhotoCraft Website	Website van PhotoCraft
 	PhotoCraft on GitHub	PhotoCraft op GitHub
 	ArtCraft Website	Website van ArtCraft
@@ -1613,7 +1618,6 @@
 	Current Tool	Huidig gereedschap
 	Custom Shape Tool	Gereedschap Aangepaste vorm
 	Cyans	Cyaantinten
-	Default PhotoCraft Size	Standaardgrootte PhotoCraft
 	Delete Workspace	Werkruimte verwijderen
 	Diamond	Ruit
 	Dimensions:	Afmetingen:

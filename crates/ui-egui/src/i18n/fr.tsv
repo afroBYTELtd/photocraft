@@ -22,6 +22,7 @@
 # Guide layout dialog
 
 # Custom print paper (#3820)
+	AFROBYTE Studio Default	Taille par défaut d’AFROBYTE Studio
 	Paper Width	Largeur du papier
 	Paper Height	Hauteur du papier
 	Rows	Lignes
@@ -766,6 +767,10 @@
 	Tool Presets	Préréglages d'outils
 	Tools	Outils
 	About PhotoCraft	À propos de PhotoCraft
+	AFROBYTE Studio on GitHub	AFROBYTE Studio sur GitHub
+	AFROBYTE Website	Site web de AFROBYTE
+	About AFROBYTE Studio	À propos de AFROBYTE Studio
+	Original PhotoCraft Source	Code source original de PhotoCraft
 	PhotoCraft Website	Site web de PhotoCraft
 	PhotoCraft on GitHub	PhotoCraft sur GitHub
 	ArtCraft Website	Site web d'ArtCraft
@@ -1615,7 +1620,6 @@
 	Current Tool	Outil actif
 	Custom Shape Tool	Outil Forme personnalisée
 	Cyans	Cyans
-	Default PhotoCraft Size	Taille PhotoCraft par défaut
 	Delete Workspace	Supprimer l'espace de travail
 	Diamond	Losange
 	Dimensions:	Dimensions :

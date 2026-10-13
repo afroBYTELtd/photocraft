@@ -13,6 +13,7 @@
 # Guide layout dialog
 
 # Custom print paper (#3820)
+	AFROBYTE Studio Default	Типовий розмір AFROBYTE Studio
 	Paper Width	Ширина паперу
 	Paper Height	Висота паперу
 	Rows	Рядки
@@ -490,6 +491,10 @@
 
 # Help
 	About PhotoCraft	Про PhotoCraft
+	AFROBYTE Studio on GitHub	AFROBYTE Studio на GitHub
+	AFROBYTE Website	Вебсайт AFROBYTE
+	About AFROBYTE Studio	Про AFROBYTE Studio
+	Original PhotoCraft Source	Оригінальний вихідний код PhotoCraft
 	PhotoCraft Website	Вебсайт PhotoCraft
 	PhotoCraft on GitHub	PhotoCraft на GitHub
 	Report an Issue…	Повідомити про проблему…
@@ -1483,7 +1488,6 @@
 	Art & Illustration	Мистецтво та ілюстрація
 	Mobile	Мобільні пристрої
 	Film & Video	Фільм і відео
-	Default PhotoCraft Size	Типовий розмір PhotoCraft
 	Clipboard	Буфер обміну
 	Photo (2 × 3 in)	Фото (2 × 3 дюйми)
 	Photo (4 × 6 in)	Фото (4 × 6 дюймів)

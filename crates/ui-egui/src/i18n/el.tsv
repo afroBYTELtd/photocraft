@@ -6,6 +6,7 @@
 # Guide layout dialog
 
 # Custom print paper (#3820)
+	AFROBYTE Studio Default	Προεπιλεγμένο μέγεθος AFROBYTE Studio
 	Paper Width	Πλάτος χαρτιού
 	Paper Height	Ύψος χαρτιού
 	Rows	Γραμμές
@@ -200,6 +201,10 @@
 	Pixelate	Εικονοστοιχείωση
 	Render	Απόδοση
 	About PhotoCraft	Πληροφορίες για το PhotoCraft
+	AFROBYTE Studio on GitHub	AFROBYTE Studio στο GitHub
+	AFROBYTE Website	Ιστότοπος AFROBYTE
+	About AFROBYTE Studio	Πληροφορίες για το AFROBYTE Studio
+	Original PhotoCraft Source	Αρχικός πηγαίος κώδικας PhotoCraft
 
 # Consolidated Greek localization additions
 	Content-Aware Fill…	Γέμισμα βάσει περιεχομένου…
@@ -3467,7 +3472,6 @@ cameraRaw	Yellow	Κίτρινο
 	Color…	Χρώμα…
 	Cone (Inverted)	Κώνος (αντεστραμμένος)
 	Could not open	Δεν ήταν δυνατό το άνοιγμα
-	Default PhotoCraft Size	Προεπιλεγμένο μέγεθος PhotoCraft
 	Diagonal (Descending)	Διαγώνιος (φθίνουσα)
 	Contour Editor	Επεξεργαστής περιγράμματος
 	Anti-aliased	Εξομάλυνση

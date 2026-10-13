@@ -10,6 +10,7 @@
 # Guide layout dialog
 
 # Custom print paper (#3820)
+	AFROBYTE Studio Default	AFROBYTE Studio 기본 크기
 	Paper Width	용지 너비
 	Paper Height	용지 높이
 	Columns	열
@@ -750,6 +751,10 @@
 	Tool Presets	도구 사전 설정
 	Tools	도구
 	About PhotoCraft	PhotoCraft 정보
+	AFROBYTE Studio on GitHub	GitHub의 AFROBYTE Studio
+	AFROBYTE Website	AFROBYTE 웹사이트
+	About AFROBYTE Studio	AFROBYTE Studio 정보
+	Original PhotoCraft Source	PhotoCraft 원본 소스 코드
 	PhotoCraft Website	PhotoCraft 웹사이트
 	PhotoCraft on GitHub	GitHub의 PhotoCraft
 	ArtCraft Website	ArtCraft 웹사이트
@@ -1606,7 +1611,6 @@
 	Current Tool	현재 도구
 	Custom Shape Tool	사용자 정의 모양 도구
 	Cyans	사이안 계열
-	Default PhotoCraft Size	PhotoCraft 기본 크기
 	Delete Workspace	작업 영역 삭제
 	Diamond	다이아몬드
 	Dimensions:	치수:

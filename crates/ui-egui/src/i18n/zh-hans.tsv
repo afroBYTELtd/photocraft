@@ -14,6 +14,7 @@
 # Guide layout dialog
 
 # Custom print paper (#3820)
+	AFROBYTE Studio Default	AFROBYTE Studio 默认尺寸
 	Paper Width	纸张宽度
 	Paper Height	纸张高度
 	Columns	列
@@ -778,6 +779,10 @@
 	Tool Presets	工具预设
 	Tools	工具
 	About PhotoCraft	关于 PhotoCraft
+	AFROBYTE Studio on GitHub	AFROBYTE Studio 的 GitHub 页面
+	AFROBYTE Website	AFROBYTE 网站
+	About AFROBYTE Studio	关于 AFROBYTE Studio
+	Original PhotoCraft Source	原版 PhotoCraft 源代码
 	PhotoCraft Website	PhotoCraft 网站
 	PhotoCraft on GitHub	PhotoCraft 的 GitHub 页面
 	ArtCraft Website	ArtCraft 网站
@@ -1650,7 +1655,6 @@
 	Current Tool	当前工具
 	Custom Shape Tool	自定形状工具
 	Cyans	青色
-	Default PhotoCraft Size	默认 PhotoCraft 大小
 	Delete Workspace	删除工作区
 	Diamond	菱形
 	Dimensions:	尺寸：
