@@ -2636,7 +2636,7 @@
 	Automatic uses GPU acceleration when available and falls back to CPU rendering on errors.	Automatski režim koristi GPU ubrzanje kada je dostupno, a u slučaju grešaka prelazi na renderovanje procesorom.
 	Switched to CPU rendering	Prebačeno na renderovanje procesorom
 	GPU acceleration could not continue. Your documents are unchanged.	GPU ubrzanje nije moglo da se nastavi. Vaši dokumenti su nepromenjeni.
-	PhotoCraft is using the CPU image compositor. The window may still use your graphics adapter.	PhotoCraft koristi CPU kompozitor slike. Prozor i dalje može da koristi vaš grafički adapter.
+	AFROBYTE Studio is using the CPU image compositor. The window may still use your graphics adapter.	AFROBYTE Studio koristi CPU kompozitor slike. Prozor i dalje može da koristi vaš grafički adapter.
 	Retry GPU requires a restart. Save your work first.	Ponovni pokušaj sa GPU-om zahteva ponovno pokretanje. Prvo sačuvajte svoj rad.
 	Keep Using CPU	Nastavi sa CPU-om
 	Retry GPU	Ponovo pokušaj sa GPU-om

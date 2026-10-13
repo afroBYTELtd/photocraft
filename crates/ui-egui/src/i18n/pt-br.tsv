@@ -2643,7 +2643,7 @@
 	Automatic uses GPU acceleration when available and falls back to CPU rendering on errors.	O modo automático usa a aceleração por GPU quando disponível e volta para a renderização por CPU em caso de erros.
 	Switched to CPU rendering	Renderização alterada para CPU
 	GPU acceleration could not continue. Your documents are unchanged.	A aceleração por GPU não pôde continuar. Seus documentos não foram alterados.
-	PhotoCraft is using the CPU image compositor. The window may still use your graphics adapter.	O PhotoCraft está usando o compositor de imagens da CPU. A janela ainda pode usar seu adaptador gráfico.
+	AFROBYTE Studio is using the CPU image compositor. The window may still use your graphics adapter.	O AFROBYTE Studio está usando o compositor de imagens da CPU. A janela ainda pode usar seu adaptador gráfico.
 	Retry GPU requires a restart. Save your work first.	Tentar a GPU novamente exige reiniciar. Salve seu trabalho primeiro.
 	Keep Using CPU	Continuar usando a CPU
 	Retry GPU	Tentar a GPU novamente

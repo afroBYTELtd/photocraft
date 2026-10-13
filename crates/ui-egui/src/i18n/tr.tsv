@@ -2232,7 +2232,7 @@
 	Automatic uses GPU acceleration when available and falls back to CPU rendering on errors.	Otomatik, mümkün olduğunda GPU hızlandırmayı kullanır ve hatalarda CPU oluşturmaya geri döner.
 	Switched to CPU rendering	CPU oluşturmaya geçildi
 	GPU acceleration could not continue. Your documents are unchanged.	GPU hızlandırması devam edemedi. Belgeleriniz değişmedi.
-	PhotoCraft is using the CPU image compositor. The window may still use your graphics adapter.	PhotoCraft, CPU görüntü düzenleyicisini kullanıyor. Pencere hala grafik bağdaştırıcınızı kullanıyor olabilir.
+	AFROBYTE Studio is using the CPU image compositor. The window may still use your graphics adapter.	AFROBYTE Studio, CPU görüntü düzenleyicisini kullanıyor. Pencere hala grafik bağdaştırıcınızı kullanıyor olabilir.
 	Retry GPU requires a restart. Save your work first.	GPU'yu yeniden dene, yeniden başlatma gerektirir. Öncelikle çalışmanızı kaydedin.
 	Keep Using CPU	CPU'yu Kullanmaya Devam Edin
 	Retry GPU	GPU'yu yeniden dene

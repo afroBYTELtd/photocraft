@@ -1573,7 +1573,7 @@ cameraRaw	Shadows	Vùng tối
 	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run PhotoCraft under XWayland with `WAYLAND_DISPLAY= photocraft`.	Kéo thả tệp gốc chưa được hỗ trợ trên Wayland. Dùng Tệp › Mở, hoặc chạy PhotoCraft dưới XWayland với `WAYLAND_DISPLAY= photocraft`.
 	Switched to CPU rendering	Đã chuyển sang kết xuất CPU
 	GPU acceleration could not continue. Your documents are unchanged.	Không thể tiếp tục tăng tốc GPU. Tài liệu của bạn không đổi.
-	PhotoCraft is using the CPU image compositor. The window may still use your graphics adapter.	PhotoCraft đang dùng bộ kết hợp ảnh CPU. Cửa sổ vẫn có thể dùng bộ điều hợp đồ họa của bạn.
+	AFROBYTE Studio is using the CPU image compositor. The window may still use your graphics adapter.	AFROBYTE Studio đang dùng bộ kết hợp ảnh CPU. Cửa sổ vẫn có thể dùng bộ điều hợp đồ họa của bạn.
 	Retry GPU	Thử lại GPU
 	Retry GPU requires a restart. Save your work first.	Thử lại GPU cần khởi động lại. Hãy lưu công việc trước.
 	Keep Using CPU	Tiếp tục dùng CPU

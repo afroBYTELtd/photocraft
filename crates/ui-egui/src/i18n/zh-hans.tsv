@@ -2265,7 +2265,7 @@ cameraRaw	Blending	混合
 	Automatic uses GPU acceleration when available and falls back to CPU rendering on errors.	自动模式会在可用时使用 GPU 加速，出错时改用 CPU 渲染。
 	Switched to CPU rendering	已切换到 CPU 渲染
 	GPU acceleration could not continue. Your documents are unchanged.	GPU 加速无法继续。您的文档未更改。
-	PhotoCraft is using the CPU image compositor. The window may still use your graphics adapter.	PhotoCraft 正在使用 CPU 合成图像。窗口仍可能使用您的显卡。
+	AFROBYTE Studio is using the CPU image compositor. The window may still use your graphics adapter.	AFROBYTE Studio 正在使用 CPU 合成图像。窗口仍可能使用您的显卡。
 	Retry GPU requires a restart. Save your work first.	重试 GPU 需要重新启动。请先保存您的工作。
 	Keep Using CPU	继续使用 CPU
 	Retry GPU	重试 GPU
