@@ -18,16 +18,33 @@ def run(*args):
     subprocess.run(args, check=True)
 
 def main():
-    if sys.argv[1:] not in ([], ["--replace"]):
-        sys.exit("Usage: python3 packaging/macos/build-afrobyte-local.py [--replace]")
+    options = sys.argv[1:]
+    allowed = {"--build", "--replace"}
+
+    if len(options) != len(set(options)) or any(
+        option not in allowed for option in options
+    ):
+        sys.exit(
+            "Usage: python3 packaging/macos/build-afrobyte-local.py "
+            "[--build] [--replace]"
+        )
+
+    if APP.exists() and "--replace" not in options:
+        sys.exit("App already exists. Close it and rerun with --replace.")
+
+    if "--build" in options:
+        print("Building the latest AFROBYTE Studio source...", flush=True)
+        subprocess.run(
+            ["cargo", "build", "--release", "--locked", "-p", "photocraft"],
+            cwd=ROOT,
+            check=True,
+        )
 
     for path in (BINARY, ICON, TEMPLATE):
         if not path.is_file():
             sys.exit(f"Missing required file: {path}")
 
     if APP.exists():
-        if "--replace" not in sys.argv:
-            sys.exit("App already exists. Close it and rerun with --replace.")
         shutil.rmtree(APP)
 
     metadata = json.loads(subprocess.check_output(
