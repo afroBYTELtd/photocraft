@@ -2861,7 +2861,7 @@ cameraRaw	Yellow	Sárga
 	Photo	Fotó
 	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	A PhotoCraft egy másik képszerkesztő billentyűparancs-készletét találta ezen a számítógépen: {set}. Ebben {n} billentyűparancs eltér a PhotoCraftétól. Importálod?
 	PhotoCraft keeps retrying; until a save succeeds, preference changes are lost when it closes.	A PhotoCraft tovább próbálkozik; amíg a mentés nem sikerül, a beállítások módosításai bezáráskor elvesznek.
-	PhotoCraft Manages Colors	A PhotoCraft kezeli a színeket
+	AFROBYTE Studio Manages Colors	A AFROBYTE Studio kezeli a színeket
 	PhotoCraft — an open-source, native image editor written in Rust.	PhotoCraft – nyílt forráskódú, natív képszerkesztő Rust nyelven.
 	Picas	Pica
 	Pixels	Pixel

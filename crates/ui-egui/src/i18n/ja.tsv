@@ -1335,7 +1335,7 @@
 	Perspective Warp: draw planes along the image's perspective, then switch to Warp	遠近法ワープ: 画像の遠近に沿って面を描き、ワープに切り替えます
 	Photo Filter	写真フィルター
 	PhotoCraft	PhotoCraft
-	PhotoCraft Manages Colors	PhotoCraft でカラーを管理
+	AFROBYTE Studio Manages Colors	AFROBYTE Studio でカラーを管理
 	PhotoCraft — an open-source, native image editor written in Rust.	PhotoCraft — Rust で書かれた、オープンソースのネイティブ画像エディター。
 	Pin Depth:	ピンの深さ:
 	Pixel Length:	ピクセル長:

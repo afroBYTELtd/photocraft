@@ -1304,7 +1304,7 @@
 	Perspective Warp: draw planes along the image's perspective, then switch to Warp	원근 뒤틀기: 이미지의 원근에 따라 평면을 그린 다음 뒤틀기로 전환하세요
 	Photo Filter	포토 필터
 	PhotoCraft	PhotoCraft
-	PhotoCraft Manages Colors	PhotoCraft에서 색상 관리
+	AFROBYTE Studio Manages Colors	AFROBYTE Studio에서 색상 관리
 	PhotoCraft — an open-source, native image editor written in Rust.	PhotoCraft — Rust로 작성된 오픈 소스 네이티브 이미지 편집기.
 	Pin Depth:	핀 깊이:
 	Pixel Length:	픽셀 길이:

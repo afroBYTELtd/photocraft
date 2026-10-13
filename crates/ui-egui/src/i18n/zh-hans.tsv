@@ -1342,7 +1342,7 @@
 	Perspective Warp: draw planes along the image's perspective, then switch to Warp	透视变形：沿图像透视绘制平面，然后切换到变形
 	Photo Filter	照片滤镜
 	PhotoCraft	PhotoCraft
-	PhotoCraft Manages Colors	由 PhotoCraft 管理颜色
+	AFROBYTE Studio Manages Colors	由 AFROBYTE Studio 管理颜色
 	PhotoCraft — an open-source, native image editor written in Rust.	PhotoCraft — 用 Rust 编写的开源原生图像编辑器。
 	Pin Depth:	控制点深度：
 	Pixel Length:	像素长度：
