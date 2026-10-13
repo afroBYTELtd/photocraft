@@ -12,9 +12,14 @@ pub const APP_PAGE: &str = "https://getartcraft.com/apps/photocraft";
 pub const GITHUB: &str = "https://github.com/storytold/photocraft";
 pub const ISSUES: &str = "https://github.com/storytold/photocraft/issues";
 
+pub const AFROBYTE_WEBSITE: &str = "https://afrobyte.io";
+pub const AFROBYTE_GITHUB: &str = "https://github.com/afroBYTELtd/photocraft";
+pub const AFROBYTE_ISSUES: &str = "https://github.com/afroBYTELtd/photocraft/issues";
+pub const ORIGINAL_SOURCE: &str = "https://github.com/storytold/photocraft";
+
 /// Help-menu link commands: (id, url). Labels live in `menus::UI_COMMANDS`.
 pub const COMMANDS: &[(&str, &str)] =
-    &[("help.discord", DISCORD), ("help.website", APP_PAGE), ("help.artcraftWebsite", ARTCRAFT_WEBSITE), ("help.github", GITHUB), ("help.reportIssue", ISSUES)];
+    &[("help.website", AFROBYTE_WEBSITE), ("help.github", AFROBYTE_GITHUB), ("help.reportIssue", AFROBYTE_ISSUES), ("help.originalSource", ORIGINAL_SOURCE)];
 
 pub fn url_for(id: &str) -> Option<&'static str> {
     COMMANDS.iter().find(|c| c.0 == id).map(|c| c.1)
@@ -102,7 +107,7 @@ mod tests {
     fn help_menu_lists_links_then_separator_then_system_info_and_about() {
         let app = PhotocraftApp::new(photocraft_engine::Session::new(), Default::default());
         let help: Vec<String> = crate::menus::menu_items(&app).into_iter().filter(|i| i.path == ["Help"]).map(|i| i.id).collect();
-        assert_eq!(help, ["help.discord", "help.website", "help.artcraftWebsite", "help.github", "help.reportIssue", "---", "help.systemInfo", "help.about"]);
+        assert_eq!(help, ["help.website", "help.github", "help.reportIssue", "help.originalSource", "---", "help.systemInfo", "help.about"]);
         for (id, _) in COMMANDS {
             assert!(crate::menus::is_live(id) && crate::menus::is_enabled(&app, id), "{id}");
         }
@@ -113,9 +118,10 @@ mod tests {
         let mut app = PhotocraftApp::new(photocraft_engine::Session::new(), Default::default());
         let ctx = egui::Context::default();
         for (id, url) in [
-            ("help.discord", "https://discord.gg/artcraft"),
-            ("help.website", "https://getartcraft.com/apps/photocraft"),
-            ("help.github", "https://github.com/storytold/photocraft"),
+            ("help.website", "https://afrobyte.io"),
+            ("help.github", "https://github.com/afroBYTELtd/photocraft"),
+            ("help.reportIssue", "https://github.com/afroBYTELtd/photocraft/issues"),
+            ("help.originalSource", "https://github.com/storytold/photocraft"),
         ] {
             let r = crate::menus::invoke(&mut app, &ctx, id, serde_json::json!({})).unwrap();
             assert_eq!(r["url"], url);
